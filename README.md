@@ -114,9 +114,11 @@ Saved description: vacation_photo.txt
 
 ### Generated description example
 
-**Input:** `concert_photo.jpg`
+**Input:** `test.jpg`
 
-**Output:** `concert_photo.txt`
+![Example image](test.jpg)
+
+**Output:** `test.txt`
 ```
 The image depicts a band performing on stage, with two men playing musical
 instruments and singing into microphones. One man is holding a guitar, while

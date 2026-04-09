@@ -45,10 +45,15 @@ Thumbs.db
 # Claude
 .claude/
 
-# Test images (don't commit large files)
-test.jpg
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.webp
+# Sample images for examples
+# test.jpg is included as an example
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.webp
+
+# Ignore large user images
+*.raw
+*.cr2
+*.nef
